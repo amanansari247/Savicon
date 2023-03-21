@@ -2,8 +2,8 @@
 
 Do Effective Browsing With Savicon
 
-![Logo](![icon](https://user-images.githubusercontent.com/72137751/226576863-9f574d0c-b174-41e3-b7b9-66a755b79b3c.png)
-)
+![icon](https://user-images.githubusercontent.com/72137751/226576863-9f574d0c-b174-41e3-b7b9-66a755b79b3c.png)
+
 
 
 ## Install As A Chrome Extension
